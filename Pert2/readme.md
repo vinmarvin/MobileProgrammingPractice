@@ -1,3 +1,4 @@
+```
 main()
  └── MyApp (StatelessWidget)
       └── MaterialApp
@@ -7,6 +8,7 @@ main()
                      │    └── Text (Menampilkan judul 'myITS')
                      └── Center (Sebagai Body)
                           └── Text (Menampilkan pesan 'Welcome')
+```
 
 Dari code yang diberikan di classroom, saya memodifikasi dan menyesuaikan dengan file main.dart yang ada di template flutter saat kita membuat project. Tampilan project flutter yang dibuat berupa dummy aplikasi myits dan perubahan yang dilakukan berupa perubahan warna dan tulisan/teks
 
