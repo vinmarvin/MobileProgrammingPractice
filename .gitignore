@@ -1,0 +1,4 @@
+touchsomegrass/assets/audio/
+*.mp3
+touchsomegrass/build/
+touchsomegrass/.dart_tool/
