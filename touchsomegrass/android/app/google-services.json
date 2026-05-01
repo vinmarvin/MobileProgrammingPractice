@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551233163781",
+    "project_id": "touchsomegrass-abf11",
+    "storage_bucket": "touchsomegrass-abf11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551233163781:android:59355a43cc280c983a026c",
+        "android_client_info": {
+          "package_name": "com.example.touch_some_gras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk3bZFe2DlNTz-YiISEIo5yHkDsWhaL2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
