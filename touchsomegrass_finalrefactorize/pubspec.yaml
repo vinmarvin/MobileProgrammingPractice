@@ -1,0 +1,59 @@
+name: touch_some_grass
+description: TouchSomeGrass - Wellbeing & Productivity App
+publish_to: 'none'
+version: 1.5.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ── Firebase ──────────────────────────────────────────────
+  firebase_core: ^4.7.0
+  firebase_auth: ^6.4.0
+  cloud_firestore: ^6.3.0
+
+  # ── State Management ──────────────────────────────────────
+  provider: ^6.1.2
+
+  # ── Notifications ─────────────────────────────────────────
+  awesome_notifications: ^0.11.0
+
+  # ── Media / Storage ───────────────────────────────────────
+  image_picker: ^1.0.7
+  path_provider: ^2.1.2
+  path: ^1.9.1
+  shared_preferences: ^2.2.2
+
+  #Audio player
+  audioplayers: ^6.1.0
+
+  # YouTube player embed
+  youtube_player_flutter: ^9.0.3
+
+  geolocator: ^14.0.2
+  geocoding: ^4.0.0
+
+  # ── Utilities ─────────────────────────────────────────────
+  url_launcher: ^6.2.5
+  intl: ^0.20.0
+  cupertino_icons: ^1.0.8
+  sqflite: ^2.4.2+1
+  tflite_flutter: ^0.12.1
+  image: ^4.1.7
+  logger: ^2.4.0
+  ultralytics_yolo: ^0.3.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/audio/       
+    - assets/models/
